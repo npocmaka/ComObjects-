@@ -1,4 +1,4 @@
-  Msdn dcodumentation : https://msdn.microsoft.com/en-us/library/aa741317(v=vs.85).aspx
+
 
    TypeName: mshtml.HTMLDocumentClass
 
